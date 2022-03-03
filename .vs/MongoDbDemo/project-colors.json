@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b4d45061-8c4e-473b-a145-ed4b70c5c3e0": {
+      "ProjectGuid": "b4d45061-8c4e-473b-a145-ed4b70c5c3e0",
+      "DisplayName": "MongoDbDemo.Persistence",
+      "ColorIndex": 0
+    },
+    "581e710a-7522-4297-9c26-a2bef27cb3b5": {
+      "ProjectGuid": "581e710a-7522-4297-9c26-a2bef27cb3b5",
+      "DisplayName": "MongoDbDemo.Application",
+      "ColorIndex": 1
+    },
+    "90c5bb91-cda8-4b7a-8b6c-7a7dea2f7570": {
+      "ProjectGuid": "90c5bb91-cda8-4b7a-8b6c-7a7dea2f7570",
+      "DisplayName": "MongoDbDemo.Domain",
+      "ColorIndex": 2
+    },
+    "5bf50671-32e6-4954-add2-fbcf761e2378": {
+      "ProjectGuid": "5bf50671-32e6-4954-add2-fbcf761e2378",
+      "DisplayName": "MongoDbDemo.API",
+      "ColorIndex": 3
+    },
+    "d460bba9-bc46-4292-ac42-dc6c53d902f8": {
+      "ProjectGuid": "d460bba9-bc46-4292-ac42-dc6c53d902f8",
+      "DisplayName": "MongoDbDemo.API",
+      "ColorIndex": 4
+    },
+    "deb3ee9e-39f6-4f0d-882f-b2fdc814c0b3": {
+      "ProjectGuid": "deb3ee9e-39f6-4f0d-882f-b2fdc814c0b3",
+      "DisplayName": "MongoDbDemo.API",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
